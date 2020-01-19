@@ -90,6 +90,8 @@ public class Basic9Streams {
                 .sorted(Comparator.reverseOrder())
                 .forEach(System.out::println);
 
+
+        System.out.println("--------------------------KONIEC-----------------------------------");
         System.out.println("--------------------------KONIEC-----------------------------------");
 
     }
